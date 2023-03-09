@@ -5,6 +5,7 @@ on:
       - main
       - master
       - develop      
+      - develop-2
       - feature/*      
   pull_request:
     types: [opened, synchronize, reopened]
