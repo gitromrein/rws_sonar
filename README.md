@@ -1,1 +1,1 @@
-# rws_sonar
+# sl-vario.pdsv.firmware.slave

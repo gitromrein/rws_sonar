@@ -1,0 +1,77 @@
+[
+    {
+        "command": "C:\\Users\\wjr\\.platformio\\packages\\toolchain-gccarmnoneeabi@1.70201.0\\bin\\arm-none-eabi-gcc.exe -o .pio\\build\\debug\\src\\contract.o -c -std=gnu11 -Os -ffunction-sections -fdata-sections -Wall -mthumb -mcpu=cortex-m4 -fstack-usage -mthumb --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -ffunction-sections -fdata-sections -include Inc\\config.h -O0 -g3 -DF_CPU=150000000L -DPLATFORMIO=60106 -DSTM32G473xx -DUSE_HAL_DRIVER -DDEBUG -IInc -ISrc -Isystem Src\\contract.c",
+        "directory": "C:\\USER\\GitHub\\DINA\\PDSV\\sl-vario.pdsv.firmware.slave",
+        "file": "C:\\USER\\GitHub\\DINA\\PDSV\\sl-vario.pdsv.firmware.slave\\Src\\contract.c"
+    },
+    {
+        "command": "C:\\Users\\wjr\\.platformio\\packages\\toolchain-gccarmnoneeabi@1.70201.0\\bin\\arm-none-eabi-gcc.exe -o .pio\\build\\debug\\src\\helpers.o -c -std=gnu11 -Os -ffunction-sections -fdata-sections -Wall -mthumb -mcpu=cortex-m4 -fstack-usage -mthumb --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -ffunction-sections -fdata-sections -include Inc\\config.h -O0 -g3 -DF_CPU=150000000L -DPLATFORMIO=60106 -DSTM32G473xx -DUSE_HAL_DRIVER -DDEBUG -IInc -ISrc -Isystem Src\\helpers.c",
+        "directory": "C:\\USER\\GitHub\\DINA\\PDSV\\sl-vario.pdsv.firmware.slave",
+        "file": "C:\\USER\\GitHub\\DINA\\PDSV\\sl-vario.pdsv.firmware.slave\\Src\\helpers.c"
+    },
+    {
+        "command": "C:\\Users\\wjr\\.platformio\\packages\\toolchain-gccarmnoneeabi@1.70201.0\\bin\\arm-none-eabi-gcc.exe -o .pio\\build\\debug\\src\\main.o -c -std=gnu11 -Os -ffunction-sections -fdata-sections -Wall -mthumb -mcpu=cortex-m4 -fstack-usage -mthumb --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -ffunction-sections -fdata-sections -include Inc\\config.h -O0 -g3 -DF_CPU=150000000L -DPLATFORMIO=60106 -DSTM32G473xx -DUSE_HAL_DRIVER -DDEBUG -IInc -ISrc -Isystem Src\\main.c",
+        "directory": "C:\\USER\\GitHub\\DINA\\PDSV\\sl-vario.pdsv.firmware.slave",
+        "file": "C:\\USER\\GitHub\\DINA\\PDSV\\sl-vario.pdsv.firmware.slave\\Src\\main.c"
+    },
+    {
+        "command": "C:\\Users\\wjr\\.platformio\\packages\\toolchain-gccarmnoneeabi@1.70201.0\\bin\\arm-none-eabi-gcc.exe -o .pio\\build\\debug\\src\\pdsv-diagnostics.o -c -std=gnu11 -Os -ffunction-sections -fdata-sections -Wall -mthumb -mcpu=cortex-m4 -fstack-usage -mthumb --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -ffunction-sections -fdata-sections -include Inc\\config.h -O0 -g3 -DF_CPU=150000000L -DPLATFORMIO=60106 -DSTM32G473xx -DUSE_HAL_DRIVER -DDEBUG -IInc -ISrc -Isystem Src\\pdsv-diagnostics.c",
+        "directory": "C:\\USER\\GitHub\\DINA\\PDSV\\sl-vario.pdsv.firmware.slave",
+        "file": "C:\\USER\\GitHub\\DINA\\PDSV\\sl-vario.pdsv.firmware.slave\\Src\\pdsv-diagnostics.c"
+    },
+    {
+        "command": "C:\\Users\\wjr\\.platformio\\packages\\toolchain-gccarmnoneeabi@1.70201.0\\bin\\arm-none-eabi-gcc.exe -o .pio\\build\\debug\\src\\pdsv-fdcan.o -c -std=gnu11 -Os -ffunction-sections -fdata-sections -Wall -mthumb -mcpu=cortex-m4 -fstack-usage -mthumb --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -ffunction-sections -fdata-sections -include Inc\\config.h -O0 -g3 -DF_CPU=150000000L -DPLATFORMIO=60106 -DSTM32G473xx -DUSE_HAL_DRIVER -DDEBUG -IInc -ISrc -Isystem Src\\pdsv-fdcan.c",
+        "directory": "C:\\USER\\GitHub\\DINA\\PDSV\\sl-vario.pdsv.firmware.slave",
+        "file": "C:\\USER\\GitHub\\DINA\\PDSV\\sl-vario.pdsv.firmware.slave\\Src\\pdsv-fdcan.c"
+    },
+    {
+        "command": "C:\\Users\\wjr\\.platformio\\packages\\toolchain-gccarmnoneeabi@1.70201.0\\bin\\arm-none-eabi-gcc.exe -o .pio\\build\\debug\\src\\pdsv-hardware.o -c -std=gnu11 -Os -ffunction-sections -fdata-sections -Wall -mthumb -mcpu=cortex-m4 -fstack-usage -mthumb --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -ffunction-sections -fdata-sections -include Inc\\config.h -O0 -g3 -DF_CPU=150000000L -DPLATFORMIO=60106 -DSTM32G473xx -DUSE_HAL_DRIVER -DDEBUG -IInc -ISrc -Isystem Src\\pdsv-hardware.c",
+        "directory": "C:\\USER\\GitHub\\DINA\\PDSV\\sl-vario.pdsv.firmware.slave",
+        "file": "C:\\USER\\GitHub\\DINA\\PDSV\\sl-vario.pdsv.firmware.slave\\Src\\pdsv-hardware.c"
+    },
+    {
+        "command": "C:\\Users\\wjr\\.platformio\\packages\\toolchain-gccarmnoneeabi@1.70201.0\\bin\\arm-none-eabi-gcc.exe -o .pio\\build\\debug\\src\\pdsv-inputs.o -c -std=gnu11 -Os -ffunction-sections -fdata-sections -Wall -mthumb -mcpu=cortex-m4 -fstack-usage -mthumb --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -ffunction-sections -fdata-sections -include Inc\\config.h -O0 -g3 -DF_CPU=150000000L -DPLATFORMIO=60106 -DSTM32G473xx -DUSE_HAL_DRIVER -DDEBUG -IInc -ISrc -Isystem Src\\pdsv-inputs.c",
+        "directory": "C:\\USER\\GitHub\\DINA\\PDSV\\sl-vario.pdsv.firmware.slave",
+        "file": "C:\\USER\\GitHub\\DINA\\PDSV\\sl-vario.pdsv.firmware.slave\\Src\\pdsv-inputs.c"
+    },
+    {
+        "command": "C:\\Users\\wjr\\.platformio\\packages\\toolchain-gccarmnoneeabi@1.70201.0\\bin\\arm-none-eabi-gcc.exe -o .pio\\build\\debug\\src\\pdsv-ipk.o -c -std=gnu11 -Os -ffunction-sections -fdata-sections -Wall -mthumb -mcpu=cortex-m4 -fstack-usage -mthumb --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -ffunction-sections -fdata-sections -include Inc\\config.h -O0 -g3 -DF_CPU=150000000L -DPLATFORMIO=60106 -DSTM32G473xx -DUSE_HAL_DRIVER -DDEBUG -IInc -ISrc -Isystem Src\\pdsv-ipk.c",
+        "directory": "C:\\USER\\GitHub\\DINA\\PDSV\\sl-vario.pdsv.firmware.slave",
+        "file": "C:\\USER\\GitHub\\DINA\\PDSV\\sl-vario.pdsv.firmware.slave\\Src\\pdsv-ipk.c"
+    },
+    {
+        "command": "C:\\Users\\wjr\\.platformio\\packages\\toolchain-gccarmnoneeabi@1.70201.0\\bin\\arm-none-eabi-gcc.exe -o .pio\\build\\debug\\src\\pdsv-memorytest.o -c -std=gnu11 -Os -ffunction-sections -fdata-sections -Wall -mthumb -mcpu=cortex-m4 -fstack-usage -mthumb --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -ffunction-sections -fdata-sections -include Inc\\config.h -O0 -g3 -DF_CPU=150000000L -DPLATFORMIO=60106 -DSTM32G473xx -DUSE_HAL_DRIVER -DDEBUG -IInc -ISrc -Isystem Src\\pdsv-memorytest.c",
+        "directory": "C:\\USER\\GitHub\\DINA\\PDSV\\sl-vario.pdsv.firmware.slave",
+        "file": "C:\\USER\\GitHub\\DINA\\PDSV\\sl-vario.pdsv.firmware.slave\\Src\\pdsv-memorytest.c"
+    },
+    {
+        "command": "C:\\Users\\wjr\\.platformio\\packages\\toolchain-gccarmnoneeabi@1.70201.0\\bin\\arm-none-eabi-gcc.exe -o .pio\\build\\debug\\src\\pdsv-parameters.o -c -std=gnu11 -Os -ffunction-sections -fdata-sections -Wall -mthumb -mcpu=cortex-m4 -fstack-usage -mthumb --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -ffunction-sections -fdata-sections -include Inc\\config.h -O0 -g3 -DF_CPU=150000000L -DPLATFORMIO=60106 -DSTM32G473xx -DUSE_HAL_DRIVER -DDEBUG -IInc -ISrc -Isystem Src\\pdsv-parameters.c",
+        "directory": "C:\\USER\\GitHub\\DINA\\PDSV\\sl-vario.pdsv.firmware.slave",
+        "file": "C:\\USER\\GitHub\\DINA\\PDSV\\sl-vario.pdsv.firmware.slave\\Src\\pdsv-parameters.c"
+    },
+    {
+        "command": "C:\\Users\\wjr\\.platformio\\packages\\toolchain-gccarmnoneeabi@1.70201.0\\bin\\arm-none-eabi-gcc.exe -o .pio\\build\\debug\\src\\pdsv-voltage.o -c -std=gnu11 -Os -ffunction-sections -fdata-sections -Wall -mthumb -mcpu=cortex-m4 -fstack-usage -mthumb --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -ffunction-sections -fdata-sections -include Inc\\config.h -O0 -g3 -DF_CPU=150000000L -DPLATFORMIO=60106 -DSTM32G473xx -DUSE_HAL_DRIVER -DDEBUG -IInc -ISrc -Isystem Src\\pdsv-voltage.c",
+        "directory": "C:\\USER\\GitHub\\DINA\\PDSV\\sl-vario.pdsv.firmware.slave",
+        "file": "C:\\USER\\GitHub\\DINA\\PDSV\\sl-vario.pdsv.firmware.slave\\Src\\pdsv-voltage.c"
+    },
+    {
+        "command": "C:\\Users\\wjr\\.platformio\\packages\\toolchain-gccarmnoneeabi@1.70201.0\\bin\\arm-none-eabi-gcc.exe -o .pio\\build\\debug\\src\\safe\\safe-circuits.o -c -std=gnu11 -Os -ffunction-sections -fdata-sections -Wall -mthumb -mcpu=cortex-m4 -fstack-usage -mthumb --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -ffunction-sections -fdata-sections -include Inc\\config.h -O0 -g3 -DF_CPU=150000000L -DPLATFORMIO=60106 -DSTM32G473xx -DUSE_HAL_DRIVER -DDEBUG -IInc -ISrc -Isystem Src\\safe\\safe-circuits.c",
+        "directory": "C:\\USER\\GitHub\\DINA\\PDSV\\sl-vario.pdsv.firmware.slave",
+        "file": "C:\\USER\\GitHub\\DINA\\PDSV\\sl-vario.pdsv.firmware.slave\\Src\\safe\\safe-circuits.c"
+    },
+    {
+        "command": "C:\\Users\\wjr\\.platformio\\packages\\toolchain-gccarmnoneeabi@1.70201.0\\bin\\arm-none-eabi-gcc.exe -o .pio\\build\\debug\\src\\safe\\safe-speed.o -c -std=gnu11 -Os -ffunction-sections -fdata-sections -Wall -mthumb -mcpu=cortex-m4 -fstack-usage -mthumb --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -ffunction-sections -fdata-sections -include Inc\\config.h -O0 -g3 -DF_CPU=150000000L -DPLATFORMIO=60106 -DSTM32G473xx -DUSE_HAL_DRIVER -DDEBUG -IInc -ISrc -Isystem Src\\safe\\safe-speed.c",
+        "directory": "C:\\USER\\GitHub\\DINA\\PDSV\\sl-vario.pdsv.firmware.slave",
+        "file": "C:\\USER\\GitHub\\DINA\\PDSV\\sl-vario.pdsv.firmware.slave\\Src\\safe\\safe-speed.c"
+    },
+    {
+        "command": "C:\\Users\\wjr\\.platformio\\packages\\toolchain-gccarmnoneeabi@1.70201.0\\bin\\arm-none-eabi-gcc.exe -o .pio\\build\\debug\\src\\safe\\safe-standstill.o -c -std=gnu11 -Os -ffunction-sections -fdata-sections -Wall -mthumb -mcpu=cortex-m4 -fstack-usage -mthumb --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -ffunction-sections -fdata-sections -include Inc\\config.h -O0 -g3 -DF_CPU=150000000L -DPLATFORMIO=60106 -DSTM32G473xx -DUSE_HAL_DRIVER -DDEBUG -IInc -ISrc -Isystem Src\\safe\\safe-standstill.c",
+        "directory": "C:\\USER\\GitHub\\DINA\\PDSV\\sl-vario.pdsv.firmware.slave",
+        "file": "C:\\USER\\GitHub\\DINA\\PDSV\\sl-vario.pdsv.firmware.slave\\Src\\safe\\safe-standstill.c"
+    },
+    {
+        "command": "C:\\Users\\wjr\\.platformio\\packages\\toolchain-gccarmnoneeabi@1.70201.0\\bin\\arm-none-eabi-gcc.exe -o .pio\\build\\debug\\src\\scheduler.o -c -std=gnu11 -Os -ffunction-sections -fdata-sections -Wall -mthumb -mcpu=cortex-m4 -fstack-usage -mthumb --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -ffunction-sections -fdata-sections -include Inc\\config.h -O0 -g3 -DF_CPU=150000000L -DPLATFORMIO=60106 -DSTM32G473xx -DUSE_HAL_DRIVER -DDEBUG -IInc -ISrc -Isystem Src\\scheduler.c",
+        "directory": "C:\\USER\\GitHub\\DINA\\PDSV\\sl-vario.pdsv.firmware.slave",
+        "file": "C:\\USER\\GitHub\\DINA\\PDSV\\sl-vario.pdsv.firmware.slave\\Src\\scheduler.c"
+    }
+]
